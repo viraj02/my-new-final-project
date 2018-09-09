@@ -1,0 +1,13 @@
+<p>
+  courses-list works!
+</p>
+
+<div  *ngFor="let data of coursesArray">
+<a [routerLink]="['details',data.name,data.duration]" >
+   {{ data.name }}
+</a>
+</div>
+
+
+
+<router-outlet></router-outlet>

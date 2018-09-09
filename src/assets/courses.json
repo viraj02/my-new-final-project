@@ -1,0 +1,22 @@
+[
+    {
+      "name":"Java",
+      "duration":100,
+      "price":1000
+    },
+     {
+      "name":"Python",
+      "duration":50,
+      "price":1000
+    },
+     {
+      "name":"Android",
+      "duration":50,
+      "price":1000
+    },
+     {
+      "name":"Javascript",
+      "duration":50,
+      "price":1000
+    }
+  ]
